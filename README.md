@@ -1,1 +1,3 @@
-# selenium_sensors
+# Selenium Sensors for Home Assistant
+
+## Installation
