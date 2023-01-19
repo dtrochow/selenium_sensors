@@ -1,0 +1,10 @@
+{
+  "codeowners": ["@dtrochow"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/dtrochow/selenium_sensors",
+  "domain": "selenium_sensors",
+  "name": "Selenium Sensors",
+  "requirements": ["selenium==4.7.2"],
+  "version": "0.0.1"
+}

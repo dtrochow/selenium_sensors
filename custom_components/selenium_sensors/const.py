@@ -1,0 +1,1 @@
+DOMAIN = "selenium_sensors"
